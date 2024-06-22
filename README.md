@@ -1,1 +1,5 @@
-# bot_discord
+# Bot De Discord
+
+# Aqui Se Va Ha Hacer EL Bot De Discord vDx
+
+# Empezamos
